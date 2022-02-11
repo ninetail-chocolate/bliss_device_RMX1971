@@ -2,6 +2,8 @@
 
 The Realme 5 Pro (codenamed _"RMX1971"_) is a mid-range smartphone from Realme. It was released in September 2019.
 
+for blissROM
+
 ## Device specifications
 
 | Device                  | Realme 5 Pro                                                                     |
